@@ -165,6 +165,19 @@
     }
   },
   "cli": {
+<<<<<<< HEAD
     "analytics": "171c6b74-8b32-4186-8178-946c524f53fe"
+=======
+<<<<<<< HEAD
+    "analytics": false
+    
+=======
+<<<<<<< HEAD
+    "analytics": false
+=======
+    "analytics": "d6adccdf-398d-4715-8b5e-36fe97d793b4"
+>>>>>>> a0d5be8d3c4a03b174ba53f83cc7108fff52cdd1
+>>>>>>> d644a8b84d041892f63717c023cc4de466425572
+>>>>>>> 03576c4583fbc2e0b6ef60e0d181f98a52ce7669
   }
 }
